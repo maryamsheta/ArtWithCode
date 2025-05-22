@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #225ded;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+  border-radius: 0.25rem;
+  position: relative;
+}
