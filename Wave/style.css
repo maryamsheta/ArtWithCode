@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #e0d5c9;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+  position: relative;
+  border: 2px solid #e0d5c9;
+}
+
+button {
+  outline: none;
+  border: none;
+  color: #e0d5c9;
+  background-color: #221e21;
+  border-radius: 4px solid #221e21;
+  cursor: pointer;
+  margin-top: 1rem;
+  width: 120px;
+  height: 35px;
+}
