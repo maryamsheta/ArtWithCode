@@ -31,5 +31,10 @@
     {
         "title": "Connected Lines",
         "folder": "Sketches/06-ConnectedLines/"
+    },
+    {
+        "title": "Generative Flowers",
+        "folder": "Sketches/07-GenerativeFlowers/",
+        "subtitle": "Click the canvas to regenerate"
     }
 ]
