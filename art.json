@@ -36,5 +36,10 @@
         "title": "Generative Flowers",
         "folder": "Sketches/07-GenerativeFlowers/",
         "subtitle": "Click the canvas to regenerate"
+    },
+    {
+        "title": "Line Noise",
+        "folder": "Sketches/08-LineNoise/",
+        "subtitle": "Click the canvas to regenerate"
     }
 ]

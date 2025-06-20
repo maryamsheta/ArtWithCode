@@ -17,4 +17,6 @@ canvas {
   border: 2.5px solid #ffffff;
   border-radius: 0.25rem;
   position: relative;
+  cursor: pointer;
+
 }
