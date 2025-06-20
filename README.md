@@ -1,7 +1,9 @@
 
 https://github.com/user-attachments/assets/13603e3c-1e5a-491b-8a0c-945745f183ef
 
-Who would have thought that just a few lines of code could create such amazing art? That’s exactly what I discovered with p5.js, and I’ve been having fun with it ever since. It perfectly combines my love for art and graphic design with my passion for programming, allowing me to express creativity in a whole new way!
+This is a collection of creative sketches made with p5.js. It combines my love for art and design with coding, using simple JavaScript to create visual experiments.
 
-This repository contains a growing collection of sketches that showcase my journey experimenting with p5.js.
-I’m excited to continue expanding this collection and sharing my progress with you! 
+Each sketch is part of my journey exploring creative coding as I learn, experiment, and have fun with code.
+
+Feel free to browse, get inspired, and follow along as I add more.
+
