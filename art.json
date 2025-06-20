@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Vera Molnar",
+        "folder": "Sketches/00-VeraMolnar/",
+        "subtitle": "Click the canvas to regenerate"
+    },
+    {
+        "title": "10PRINT",
+        "folder": "Sketches/01-10PRINT/",
+        "subtitle": "Click the canvas to regenerate"
+    },
+    {
+        "title": "Cubic Disarray",
+        "folder": "Sketches/02-CubicDisarray/",
+        "subtitle": "Click the canvas to regenerate"
+    },
+    {
+        "title": "Bauhaus Squares",
+        "folder": "Sketches/03-BauhausSquares/",
+        "subtitle": "Click the canvas to regenerate"
+    },
+    {
+        "title": "Bauhaus Shapes",
+        "folder": "Sketches/04-BauhausShapes/",
+        "subtitle": "Click the canvas to regenerate"
+    },
+    {
+        "title": "Breathing Circles",
+        "folder": "Sketches/05-BreathingCircles/"
+    },
+    {
+        "title": "Connected Lines",
+        "folder": "Sketches/06-ConnectedLines/"
+    }
+]

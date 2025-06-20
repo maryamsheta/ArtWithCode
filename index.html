@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Art with Code</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        user-select: none;
+      }
+
+      body {
+        font-family: 'Space Grotesk', sans-serif;
+      }
+
+      iframe {
+        width: 100%;
+        height: 400px;
+        border: none;
+      }
+
+      .active-tab {
+        font-weight: bold;
+      }
+
+      .subtitle {
+        display: none;
+      }
+
+      .active-tab .subtitle {
+        display: block;
+      }
+    </style>
+  </head>
+
+  <body class="bg-white text-black p-4 min-h-screen flex items-center justify-center">
+
+    <main class="w-full max-w-6xl">
+      <header class="mb-10 text-center">
+        <h1 class="text-4xl md:text-5xl font-bold tracking-tight">ART WITH CODE</h1>
+        <p class="mt-4 text-lg text-gray-600">who would have thought that just a few lines of code could create such
+          art?</p>
+      </header>
+
+      <div class="flex flex-col md:flex-row gap-6 justify-center">
+
+        <div id="iframe-container">
+          <iframe src="Art/01-10PRINT/"></iframe>
+        </div>
+
+        <nav id="artwork-buttons"
+          class="flex flex-col md:min-w-52 gap-2 md:gap-4 justify-start h-[400px] overflow-y-auto overflow-x-hidden">
+        </nav>
+
+      </div>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+
+</html>
