@@ -1,7 +1,9 @@
 let flowers = [];
 
 function setup() {
-  createCanvas(300, 400);
+  let cnv = createCanvas(300, 400);
+  cnv.mousePressed(drawNew);
+
   angleMode(DEGREES);
   colorMode(HSB);
   background(230, 30, 10);
@@ -22,7 +24,7 @@ function draw() {
   });
 }
 
-function mousePressed() {
+function drawNew() {
   background(230, 30, 10);
   flowers = [];
   initFlowers();
